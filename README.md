@@ -21,14 +21,19 @@ Hardwares utilizados para montagem do projeto
 
 Arduino Uno 3
  
-
+![arduino](https://www.electronicaembajadores.com/datos/fotos/articulos/grandes/lc/lca1/lca1001.jpg)
 
 Sensor DHT11 Umidade e Temperatura
+
+![sensor](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJh5-eF2nsmLcVzgqWoXeJ4Fqs9Q2CJEGpuH9UtswsyADTEkKWhnwJyBLjEa4lUVpiRsmfpM&usqp=CAc)
  
 Protoboard de 830 pontos para montagem
  
+ ![Protoboard](https://images.tcdn.com.br/img/img_prod/747012/protoboard_830_furos_mb102_breadboard_347_1_20200119094107.jpg)
 
 Jumpers para conexão dos dispositivos no protoboard
+
+![Jumpers](https://www.baudaeletronica.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/6/5/65_jumpers.jpg)
 
 Softwares utilizados para montar o protótipo 
 
