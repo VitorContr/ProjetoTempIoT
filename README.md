@@ -41,6 +41,7 @@ Foi utilizado o Fritzing para construção do fluxograma
 https://fritzing.org/
 
 Foi utilizado Node-RED para visualização das informações via Json na web
+
 http://localhost:1880
 
 ## 3.Resultados
